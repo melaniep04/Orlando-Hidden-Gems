@@ -1,0 +1,36 @@
+html {
+    background-color: #FFD670;
+}
+
+.font {
+    font-family: "Calistoga", serif;
+    font-size: 25px;
+    color: #FF9770
+}
+
+#title {
+    text-align: center;
+}
+
+#intro {
+    border: 20px solid #FFD670;
+    border-width: 30px;
+}
+
+#gem1 {
+    border: 20px solid #FFD670;
+    border-width: 20px 100px;
+}
+
+#gem2 {
+    border: 20px solid #FFD670;
+    border-width: 20px 100px;
+}
+
+#gem3 {
+    border: 20px solid #FFD670;
+    border-width: 20px 100px 50px 100px;
+}
+
+
+
